@@ -225,4 +225,8 @@ p {
   .img-border {
     margin-bottom: 20px;
   }
+  .intro p {
+    font-size: 20px;
+    line-height: 30px;
+  }
 }
