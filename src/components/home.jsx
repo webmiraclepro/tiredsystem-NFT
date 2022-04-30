@@ -6,7 +6,7 @@ export const Home = (props) => {
           <div className="container">
             <div className="row">
               <div className="col-md-5 intro-text center">
-                <img src="./img/tired.gif" className="img-border" alt="tent" />
+                <img src="./img/tired.png" className="img-border" alt="tent" />
               </div>
               <div className="col-md-7 intro-text center">
                 <div className="main-content">

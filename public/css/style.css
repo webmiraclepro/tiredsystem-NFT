@@ -126,22 +126,12 @@ a:focus,
 }
 
 p {
-  color: #fff;
+  color: #000;
   font-size: 20px;
   font-weight: 300;
   line-height: 30px;
   margin: 0;
 }
-/* Header Section */
-/* .header-title {
-  position: absolute;
-  color: #fff;
-  font-size: 60px;
-  font-weight: bold;
-  font-family: "tiredterrorist";
-  top: 10%;
-  left: 40%;
-} */
 
 .intro {
   display: flex;
@@ -150,14 +140,14 @@ p {
   width: 100%;
   height: 100vh;
   padding: 0;
-  background: url(../img/giphy.gif) center center no-repeat;
+  background: #cfcfc4;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  /* background: rgba(0, 0, 0, 0.2); */
 }
 
 .intro .row {
@@ -166,7 +156,7 @@ p {
   justify-content: center;
 }
 .intro h2 {
-  color: #fff;
+  color: #000;
   font-size: 30px;
   font-weight: 700;
   text-transform: uppercase;
@@ -175,14 +165,14 @@ p {
 }
 
 .intro p {
-  color: #fff;
-  font-size: 20px;
+  color: #000;
+  font-size: 28px;
   font-weight: 300;
-  line-height: 30px;
+  line-height: 50px;
   margin: 8px;
 }
 .bottom-line {
-  color: #fff;
+  color: #000;
 }
 
 .content-height {
@@ -216,16 +206,16 @@ p {
 
 .mint button {
   background: transparent;
-  border: 1px solid #fff;
-  color: #fff;
-  font-size: 20px;
+  border: 1px solid #000;
+  color: #000;
+  font-size: 30px;
   font-weight: bold;
   border-radius: 5px;
   padding: 5px 20px;
 }
 
 .mint button:hover {
-  background: rgb(255, 255, 255, 0.2);
+  background: rgb(0, 0, 0, 0.2);
 }
 
 @media (max-width: 500px) {
