@@ -210,6 +210,10 @@ p {
   margin-top: 2em;
 }
 
+.mint p {
+  font-weight: bold;
+}
+
 .mint button {
   background: transparent;
   border: 1px solid #fff;
