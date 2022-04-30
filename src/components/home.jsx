@@ -26,7 +26,7 @@ export const Home = (props) => {
                   </div>
                   <strong className="bottom-line">__________</strong>
                   <div className="mint">
-                    <p>55/100</p>
+                    <p>50/50</p>
                     <button>Mint Now</button>
                   </div>
                 </div>
