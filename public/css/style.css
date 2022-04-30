@@ -133,7 +133,7 @@ p {
   margin: 0;
 }
 /* Header Section */
-.header-title {
+/* .header-title {
   position: absolute;
   color: #fff;
   font-size: 60px;
@@ -141,7 +141,7 @@ p {
   font-family: "tiredterrorist";
   top: 10%;
   left: 40%;
-}
+} */
 
 .intro {
   display: flex;
@@ -234,9 +234,5 @@ p {
   }
   .img-border {
     margin-bottom: 20px;
-  }
-  .header-title {
-    top: 2%;
-    left: 10%;
   }
 }

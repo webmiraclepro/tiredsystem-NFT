@@ -1,7 +1,6 @@
 export const Home = (props) => {
   return (
     <header id="header">
-      <div className="header-title">Tired System</div>
       <div className="intro">
         <div className="overlay">
           <div className="container">
