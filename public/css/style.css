@@ -146,7 +146,7 @@ p {
 .mint button:hover {
   background: rgb(255, 255, 255, 0.2);
 }
-
+/* 
 .grey {
   position: fixed;
   background-color: #505050;
@@ -160,7 +160,7 @@ p {
 
 .bottom-grey {
   bottom: 0;
-}
+} */
 
 @media (max-width: 500px) {
   .intro .row {
@@ -173,8 +173,5 @@ p {
   .intro p {
     font-size: 20px;
     line-height: 30px;
-  }
-  .grey {
-    height: 50px;
   }
 }
