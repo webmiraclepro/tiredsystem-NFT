@@ -32,7 +32,7 @@ export const Home = (props) => {
                     <span></span>
                   </div>
                   <div className="mint">
-                    <p>50/50</p>
+                    <p>100/100</p>
                     <button>Mint Now</button>
                   </div>
                 </div>

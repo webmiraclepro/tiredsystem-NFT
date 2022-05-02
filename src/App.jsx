@@ -20,7 +20,7 @@ const App = () => {
     <div>
       <Home data={landingPageData.Home} />
       <div className="social-btn">
-        <a href="https://discord.gg/5Uncrt8r">
+        <a href="https://discord.gg/tJHDyf9n">
           <img src="./img/discord.png" className="social-icon" alt="discord" />
         </a>
       </div>
