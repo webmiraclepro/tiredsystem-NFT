@@ -2,7 +2,7 @@ export const Home = (props) => {
   return (
     <header id="header">
       <div className="intro">
-        <div className="grey top-grey"></div>
+        {/* <div className="grey top-grey"></div> */}
         <div className="overlay">
           <div className="container">
             <div className="row">
@@ -40,7 +40,7 @@ export const Home = (props) => {
             </div>
           </div>
         </div>
-        <div className="grey bottom-grey"></div>
+        {/* <div className="grey bottom-grey"></div> */}
       </div>
     </header>
   );
