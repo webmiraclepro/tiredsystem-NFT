@@ -132,6 +132,9 @@ p {
 
 .mint {
   margin-top: 2em;
+  display: grid;
+  align-items: center;
+  justify-content: center;
 }
 
 .mint button {
@@ -141,6 +144,8 @@ p {
   font-size: 30px;
   border-radius: 5px;
   padding: 5px 20px;
+  margin-bottom: 20px;
+  display: block;
 }
 
 .mint button:hover {
